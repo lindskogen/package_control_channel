@@ -343,7 +343,7 @@
 			"details": "https://github.com/lindskogen/RandomHEXColor",
 			"releases": [
 				{
-					"sublime_text": "<3000",
+					"sublime_text": "*",
 					"branch": "master"
 				}
 			]
