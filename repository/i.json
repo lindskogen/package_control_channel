@@ -905,20 +905,6 @@
 			]
 		},
 		{
-			"name": "Instacode",
-			"details": "https://github.com/lindskogen/InstacodeSublime",
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"branch": "master"
-				},
-				{
-					"sublime_text": "<3000",
-					"branch": "st2"
-				}
-			]
-		},
-		{
 			"name": "Intel HEX",
 			"details": "https://github.com/seppestas/intel-hex-syntax",
 			"labels": ["language syntax", "hexadecimal"],
