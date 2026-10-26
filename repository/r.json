@@ -344,8 +344,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master",
-					"tags": true
+					"branch": "master"
 				}
 			]
 		},
